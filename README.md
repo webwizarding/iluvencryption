@@ -1,7 +1,7 @@
 # iluvencryption
 ---
 
-# Testing envriorment
+# Testing environment
 
 ```
 Standard encryption ciphar: AES256 + CTR Mode
