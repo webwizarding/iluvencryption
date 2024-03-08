@@ -1,2 +1,7 @@
 # iluvencryption
-Research on file encryption
+---
+
+Standard encryption ciphar: AES256 + CTR Mode
+Quantum reistence: Salsa20
+
+---
